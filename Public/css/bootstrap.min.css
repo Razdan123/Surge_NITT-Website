@@ -5390,7 +5390,7 @@ figcaption {
 
 .display-1 {
     margin-top: 0px;
-    font-size: 72px;
+    font-size: 60px;
     line-height: 65px;
     font-weight: 600;
 }
@@ -5410,7 +5410,7 @@ figcaption {
 
 .display-2 {
     color: #1d217c;
-    font-size: 50px;
+    font-size: 45px;
     line-height: 50px;
     font-weight: 600;
 }
@@ -8162,7 +8162,7 @@ figcaption {
         padding-bottom: 60px;
     }
     .display-1 {
-        font-size: 50px;
+        font-size: 60px;
         line-height: 50px;
     }
     .display-1.white.smaller {
