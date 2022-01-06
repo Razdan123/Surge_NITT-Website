@@ -5173,7 +5173,7 @@ figcaption {
 .section {
     position: relative;
     min-height: auto;
-    padding: 80px 5%;
+    padding: 60px 5%;
     background-color: #fff;
 }
 
@@ -6279,7 +6279,7 @@ figcaption {
 
 .subhead {
     color: #7e7e7e;
-    font-size: 24px;
+    font-size: 20px;
     line-height: 32px;
     font-weight: 400;
 }
@@ -6853,7 +6853,6 @@ figcaption {
     display: -webkit-flex;
     display: -ms-flexbox;
     display: flex;
-    max-width: 80%;
     margin-right: auto;
     margin-left: auto;
     -webkit-box-orient: vertical;
